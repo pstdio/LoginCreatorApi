@@ -1,5 +1,5 @@
 package eu.pstdio.LoginCreatorApi.view.factory
 
-interface ViewFactory {
+interface JsonFactory {
 	fun create(input : Any) : String
 }
