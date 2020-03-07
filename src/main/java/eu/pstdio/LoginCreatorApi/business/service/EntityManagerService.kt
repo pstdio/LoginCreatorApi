@@ -1,4 +1,4 @@
-package eu.pstdio.LoginCreatorApi.business.factory
+package eu.pstdio.LoginCreatorApi.business.service
 
 import javax.persistence.EntityManager
 
