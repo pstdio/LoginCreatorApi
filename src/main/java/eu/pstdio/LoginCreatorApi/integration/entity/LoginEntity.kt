@@ -5,6 +5,6 @@ interface LoginEntity {
 	fun getlogin() : String
 	fun setHashedPasswd(hashedPasswd : String)
 	fun getHashedPasswd() : String
-	fun setCreated(created : Boolean)
-	fun isCreated() : Boolean
+	fun setSalt(salt : String)
+	fun getSalt() : String
 }
